@@ -1,0 +1,13 @@
+﻿id_sc,nombre_sc,estado,tipo_sc,avance_obra_civil_pct,avance_compras_pct,avance_licencias_pct,avance_total_pct,fecha_estimada_apertura,fecha_apertura_real,dias_retraso,estatus_retraso,nivel_avance,riesgo_apertura,cumplimiento_throughput_pct,ejecucion_capex_pct,estatus_general,observaciones
+SC-001,SMX-Norte,CDMX,Mediano,100,95,80,91.67,2026-02-15,,100,Con retraso,Alto,Alto,91.43,91.76,En operación piloto,Licencias pendientes de validación final
+SC-002,SMX-Sur,CDMX,Grande,85,60,30,58.33,2026-04-10,,46,Con retraso,Medio,Alto,0.0,49.6,En habilitación,Retraso en entrega de equipamiento por proveedor
+SC-003,GDL-Zapopan,Jalisco,Mediano,100,90,95,95.0,2026-03-01,,86,Con retraso,Alto,Alto,0.0,96.74,Pre-apertura,Sorter con falla en instalación — reemplazo en camino
+SC-004,MTY-San Nicolás,Nuevo León,Grande,60,40,20,40.0,2026-06-20,,0,En tiempo,Bajo,Bajo,0.0,30.0,En obra civil,Sin retrasos previstos a la fecha
+SC-005,QRO-Centro,Querétaro,Pequeño,100,100,100,100.0,2026-01-30,2026-02-05,116,Con retraso,Alto,Operativo,0.0,103.95,Operativo,Apertura completada — sobre presupuesto por ajuste de lockers
+SC-006,PUE-Angelópolis,Puebla,Mediano,70,55,45,56.67,2026-05-05,,21,Con retraso,Medio,Alto,0.0,53.93,En habilitación,Demora en permisos municipales — riesgo de +30 días
+SC-007,SLP-Industrial,San Luis Potosí,Pequeño,95,85,70,83.33,2026-03-15,,72,Con retraso,Alto,Alto,0.0,85.71,Pre-apertura,Proveedor de mesas de clasificación entrega tarde
+SC-008,TIJ-Otay,Baja California,Grande,45,30,10,28.33,2026-08-01,,0,En tiempo,Bajo,Bajo,0.0,18.79,En obra civil,Proyecto en tiempo — riesgo por temporada de lluvias
+SC-009,MER-Centro,CDMX,Especializado,90,75,60,75.0,2026-04-20,,36,Con retraso,Medio,Alto,0.0,74.67,En habilitación,SC Large+OS — requiere zona de voluminosos adicional
+SC-010,VER-Boca del Río,Veracruz,Pequeño,100,100,85,95.0,2026-02-28,,87,Con retraso,Alto,Alto,0.0,95.16,Pre-apertura,Licencia de funcionamiento en trámite final
+SC-011,AGS-Desarrollo,Aguascalientes,Mediano,30,20,5,18.33,2026-09-10,,0,En tiempo,Bajo,Bajo,0.0,17.62,En obra civil,Primera apertura en la región — sin benchmark local
+SC-012,LEO-Norte,Guanajuato,Grande,55,45,25,41.67,2026-07-15,,0,En tiempo,Bajo,Bajo,0.0,36.02,En obra civil,Retraso potencial por huelga de construcción en zona

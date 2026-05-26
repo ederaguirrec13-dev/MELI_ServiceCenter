@@ -118,14 +118,9 @@ Incluye:
 
 ### Dashboard [Disponible en: https://datastudio.google.com/reporting/1dbe78c7-7367-47b8-92aa-e8ea0a5f8b09]
 
-Resumen Ejecutivo:
-
-![Dashboard Ejecutivo]
-![alt text](image.png)
+Resumen Ejecutivo
 
 Detalle Operativo:
-
-![alt text](image-1.png)
 
 ---
 
